@@ -157,7 +157,7 @@ hr {
 
 #showcase:before {
     content: '';
-    background: url('img/hero.jpg') no-repeat center center/cover;
+    background: url('../img/hero.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0;
     left: 0;
@@ -855,6 +855,7 @@ input[type=number] {
 .results-container.active {
     transform: translate(-50%, -50%) scale(1);
 }
+
 
 
 
